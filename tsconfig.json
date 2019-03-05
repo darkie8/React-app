@@ -8,9 +8,11 @@
     "module": "es2015",
     "moduleResolution": "node",
     "emitDecoratorMetadata": true,
+    "jsx": "react",
     "experimentalDecorators": true,
     "importHelpers": true,
     "target": "es5",
+    "allowJs": true,
     "typeRoots": [
       "node_modules/@types"
     ],
